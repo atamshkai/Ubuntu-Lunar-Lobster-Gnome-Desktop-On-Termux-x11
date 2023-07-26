@@ -78,6 +78,11 @@ chmod +x ~/../usr/bin/lunar-gnome
 lunar-gnome
 ```
 
+#### Make A folder in sdcard to use it in Windows 7
+```
+mkdir /sdcard/win7pro
+```
+
 #### Start Desktop
 ``` 
 export XDG_CURRENT_DESKTOP=GNOME
