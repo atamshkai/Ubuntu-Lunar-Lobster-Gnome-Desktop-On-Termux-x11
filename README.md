@@ -51,7 +51,7 @@ termux-setup-storage
 echo "DISTRO_NAME='Lunar Gnome (lunar-gnome)'" >>~/../usr/etc/proot-distro/lunar-gnome.sh
 ```
 
-### Restore Lunar Lubster Gnome Distro
+### Restore Lunar Lobster Gnome Distro
 ```
 proot-distro restore /sdcard/download/lunar-gnome.tar.xz 
 ``` 
@@ -73,7 +73,7 @@ echo "proot-distro login lunar-gnome --shared-tmp --bind /dev/null:/proc/sys/ker
 chmod +x ~/../usr/bin/lunar-gnome
 ```
 
-#### Start Lunar Lubster Gnome Distro
+#### Start Lunar Lobster Gnome Distro
 ```
 lunar-gnome
 ```
