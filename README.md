@@ -2,7 +2,7 @@
 
 This is a preinstalled Ubuntu Lunar Lobster Distro with Gnome Desktop.It also contains windows 7 pro,libreoffice,vscode and etc.For Android 12 & 13,before you install it,disable phantom process killer. 
 
-[Watch Video Here](https://youtu.be/UxmQSETvAOc) 
+[Here](https://github.com/atamshkai/Phantom-Process-Killer/tree/main)
 
 ## Preview 
 
